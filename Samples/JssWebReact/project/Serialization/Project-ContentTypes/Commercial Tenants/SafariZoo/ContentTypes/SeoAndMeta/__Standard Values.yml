@@ -1,0 +1,27 @@
+﻿---
+ID: "9e197956-3f78-4277-9a53-d182f7b50e6e"
+Parent: "59604158-2942-4912-9e22-cdaa63580553"
+Template: "59604158-2942-4912-9e22-cdaa63580553"
+Path: /sitecore/templates/Project/Commercial Tenants/SafariZoo/ContentTypes/SeoAndMeta/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T150744Z
+    - ID: "4fcd141d-b3e4-4194-ae92-038acf8c3dd0"
+      Hint: Keyword
+      Value: Descryption
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8dda5ff0-2f98-4a90-a817-767b8d143f25"
+      Hint: Title
+      Value: Page Title
+    - ID: "ca820a33-8e8c-42f4-b3ea-aa841a3e54aa"
+      Hint: Description
+      Value: Keyword

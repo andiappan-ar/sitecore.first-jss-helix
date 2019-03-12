@@ -1,0 +1,18 @@
+﻿---
+ID: "f05d39ca-2b76-4a89-a1d4-fc85c7aadf38"
+Parent: "867b1aab-afdb-4f38-9408-4bd6f53e8b30"
+Template: "257cbe9f-03ae-4aa9-90f2-816355e876fb"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education/home/animals/cats/Page Components"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T105158Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

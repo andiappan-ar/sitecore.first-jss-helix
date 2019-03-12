@@ -1,0 +1,17 @@
+﻿---
+ID: "1e63e007-ceb3-4bd9-87f7-f0928630b6f3"
+Parent: "b842c5d8-f25e-4f94-9570-91a66dd16927"
+Template: "48c3c776-e1a2-46c2-b9c1-d7fa64ccee9a"
+Path: /sitecore/templates/Feature/Article/Utills/DataSource/ParaImagePostionDataSource/right
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T091624Z
+    - ID: "3b67e8b9-a825-4e20-b236-8a218f2a5e94"
+      Hint: Postion of image
+      Value: right

@@ -1,0 +1,93 @@
+﻿---
+ID: "113d4010-576c-4fb0-a54f-a05107fa48ec"
+Parent: "9004aa0c-21c4-4d82-b428-70916b19c144"
+Template: "58e4e1f8-236c-4a49-b4d1-3b93deb6dffa"
+Path: "/sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/zoo-news"
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{8CB598F4-B07A-4060-A19B-942E90E86613}"
+          p:after="r[@uid='{8B13D41F-4C8F-4AA6-B776-2BA1840C0DAE}']"
+          s:ds="{18892813-7C77-4A28-9F96-CC54DF4E6ECE}"
+          s:id="{6E23D1ED-8072-4288-8094-B8CE55A7A60C}"
+          s:par=""
+          s:ph="/jss-main/body" />
+        <r
+          uid="{5CEC1195-2030-49E5-84D1-486C6CFA0724}"
+          p:after="r[@uid='{8CB598F4-B07A-4060-A19B-942E90E86613}']"
+          s:ds="{69E5B93A-40BE-4944-92CD-CABC875E0F05}"
+          s:id="{4C2DB96D-0478-4FA3-970C-79A522CC0898}"
+          s:par=""
+          s:ph="/jss-main/body" />
+        <r
+          uid="{6FCBA4B3-E4E1-43A2-B8F8-058E42797DD5}">
+          <p:d />
+        </r>
+        <r
+          uid="{FC7362D6-A2A8-494B-B996-2DEB0DFA7778}">
+          <p:d />
+        </r>
+        <r
+          uid="{C7E210CC-8151-4E60-B0DE-E4861799D3BE}">
+          <p:d />
+        </r>
+        <r
+          uid="{9E02CEBF-DC24-4287-BC0C-2E3F1F9BB7BE}">
+          <p:d />
+        </r>
+        <r
+          uid="{56BADA14-B547-4FCC-A7E6-4224F14339C7}">
+          <p:d />
+        </r>
+        <r
+          uid="{1C9A83C8-FDAC-4246-AE82-343E9026AB05}">
+          <p:d />
+        </r>
+        <r
+          uid="{BBE44357-802D-4679-A535-2AF758D6A231}">
+          <p:d />
+        </r>
+        <r
+          uid="{E4AFAF16-8FD2-4729-8F76-448F7AEF7158}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4E3887E9-7F5A-4D9B-B613-4A683D7CFD7A}"
+              p:after="r[@uid='{8B13D41F-4C8F-4AA6-B776-2BA1840C0DAE}']" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T135620Z
+    - ID: "4fcd141d-b3e4-4194-ae92-038acf8c3dd0"
+      Hint: Keyword
+      Value: "Zoo News - Descryption"
+    - ID: "8dda5ff0-2f98-4a90-a817-767b8d143f25"
+      Hint: Title
+      Value: "Zoo News - Page Title"
+    - ID: "ca820a33-8e8c-42f4-b3ea-aa841a3e54aa"
+      Hint: Description
+      Value: "Zoo News - Keyword"

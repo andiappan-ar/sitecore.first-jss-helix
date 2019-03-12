@@ -1,0 +1,18 @@
+﻿---
+ID: "e7358a46-ea66-4205-b293-13f762c29db7"
+Parent: "b744a409-fabc-4518-8202-514edd4f0c31"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Carousal/Carousal
+DB: master
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: Carousal
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190227T135304Z

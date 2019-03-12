@@ -1,0 +1,35 @@
+﻿---
+ID: "31c6e7f3-85c0-418d-8f50-dc3d6681cf8f"
+Parent: "96dfa4f0-6c08-4e69-88fa-0317235ee2d1"
+Template: "d377972e-3254-44e7-8124-ff643d34315f"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education/home/animals/Page Components/AnimalArticle/LionPara"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0881662d-6f10-4fd6-a8da-ac3a55db7e38"
+      Hint: Image
+      Value: |
+        <image mediaid="{278E9E5D-2ADD-4C1F-8438-2DD1136E12EA}" />
+    - ID: "22e7e1f6-08b7-46f3-b4a3-09b6cbef46a5"
+      Hint: ParagraphText
+      Value: |
+        There are many different wild animals that can be seen in a zoo. There are mammals, amphibians, birds, fishes as also reptiles that are housed in a zoo. There are large and small carnivorous and herbivorous mammals. It includes tigers, lions, elephants, deer, monkeys, rhinoceroses, pandas and leopards. There are also a great variety of birds that may be resident, endemic, exotic and migratory ones that can be seen in a zoo. Snakes such as the cobra and the python are also kept in a zoo. Aquatic species of wildlife can be seen in the water bodies created in a zoo.
+        
+        The animals you see in a zoo are found in different habitats around the world. There are animals that are found naturally in forests, deserts, mountains, seas, rivers and other water bodies. In the zoo the animals are kept in separate enclosures, and their natural habitats are re-created. It is not possible, however, to house all wild animals from around the world in a zoo.
+        
+        The animals that are kept in a zoo are fed and provided water to drink. The animals are also kept clean, and are maintained in clean surroundings. There are trained caretakers who take care of the animals. If an animal falls sick or develops a disease, veterinarians help to treat and cure them.
+        
+        Visitors are permitted to go around and see the animals in a zoo. The animals should not be disturbed or teased by the visitors. The animals should also not be fed.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190227T134009Z
+    - ID: "e734848b-d6bb-4328-b1b1-ece7a55a549f"
+      Hint: ImagePostion
+      Value: left

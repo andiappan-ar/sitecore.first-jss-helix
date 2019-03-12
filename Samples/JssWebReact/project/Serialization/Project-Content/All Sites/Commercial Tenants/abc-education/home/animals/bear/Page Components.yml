@@ -1,0 +1,18 @@
+﻿---
+ID: "10def8ef-f4dd-4e92-8cdf-d33a8041f4af"
+Parent: "ba2b076c-c78f-432d-91a8-d1a683265fa5"
+Template: "257cbe9f-03ae-4aa9-90f2-816355e876fb"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education/home/animals/bear/Page Components"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T105158Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

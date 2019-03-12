@@ -1,0 +1,22 @@
+﻿---
+ID: "77e28cc0-f79a-4e0d-b56f-e383ca6bb379"
+Parent: "cbf4cd7e-dc2f-4e46-97cd-d2a0fe41932e"
+Template: "d377972e-3254-44e7-8124-ff643d34315f"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education/home/animals/cats/Page Components/CatArticle/ArticlePara"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22e7e1f6-08b7-46f3-b4a3-09b6cbef46a5"
+      Hint: ParagraphText
+      Value: |
+        Cats come in all shapes and sizes, and some can fly across the open plain at 60 miles an hour. Lions are found in open country in Africa, with a few surviving in India. The tawny-coated male lion usually has a long, thick mane and may reach 9 ft (2.7 m) in length and 400 lb (180 kg) in weight. Lions live in prides of up to 30 individuals.
+        
+        Pumas, also called mountain lion, catamount, and panther, are found from British Columbia to southernmost tip ofSouth America. Pumas vary in size (up to 7 ft/2.1 m) and color according to locale and live in many kinds of country, preying on animals as large as deer.
+        
+        Tigers found in the forests of Asia. Their yellow-orange coat features numerous prominent black stripes. Males may attain 10 ft (3 m) in length and 650 lb (290 kg) in weight. Tigers are solitary, mainly nocturnal hunters and are good swimmers but poor climbers.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T105630Z

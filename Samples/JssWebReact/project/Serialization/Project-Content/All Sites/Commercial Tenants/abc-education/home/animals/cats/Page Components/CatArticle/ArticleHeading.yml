@@ -1,0 +1,20 @@
+﻿---
+ID: "00dce790-2fd9-429a-b8ad-3440491feb9e"
+Parent: "cbf4cd7e-dc2f-4e46-97cd-d2a0fe41932e"
+Template: "1d6fa17d-7b9b-49c5-9f66-6dfb15a551e6"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education/home/animals/cats/Page Components/CatArticle/ArticleHeading"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "064cc5b4-d3eb-4f50-b6f9-23cdf5b20631"
+      Hint: SubHeading
+      Value: Not An Ordinary House Cat
+    - ID: "0e4e604c-8cca-407c-af0f-f910e7fbf3d1"
+      Hint: Heading
+      Value: Cat Heaven
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T105544Z

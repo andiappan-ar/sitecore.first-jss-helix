@@ -1,0 +1,37 @@
+﻿---
+ID: "72c7b0ad-3c89-409b-8646-02c2c9d7c496"
+Parent: "77fc9085-297c-4f36-ad83-f9d12edf53f0"
+Template: "ccab8940-57f3-4671-9c3a-261d1c0bfaaa"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education/home/PageComponents/Panel/ThirdColumn-BasicPanel-1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T180043Z
+    - ID: "4a43aca4-655b-4296-bc52-08f9ab4cc6cf"
+      Hint: HeadingType
+      Value: "panel-warning"
+    - ID: "51152c21-906e-445c-bc8b-e334e14a33f9"
+      Hint: ContentText
+      Value: "Due to the recent introduction of the Exotic Newcastle Disease into the region, the Wild Safari Resort has temporarily closed all walk-through aviaries in order to maintain the safety and welfare of our bird collection. The disease does not pose a risk to humans, but is fatal to all birds."
+    - ID: "847482c0-9359-444a-9e87-b0c2e446dae4"
+      Hint: HeadingText
+      Value: Important Note
+    - ID: "e84e212e-f543-4034-9b06-6820899e7232"
+      Hint: ContentType
+      Value: "panel-default"
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112258Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

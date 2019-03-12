@@ -1,0 +1,24 @@
+﻿---
+ID: "821ffc66-bd8e-49d2-aa38-9084da90d558"
+Parent: "83342c07-b24c-4ef8-9c2b-14ea0136f3db"
+Template: "d377972e-3254-44e7-8124-ff643d34315f"
+Path: /sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/animals/bear/Page Components/BearArticle/ArticlePara
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22e7e1f6-08b7-46f3-b4a3-09b6cbef46a5"
+      Hint: ParagraphText
+      Value: |
+        On this safari, you will see members of the family Ursidae, commonly known as bears. These omnivorous creatures are found almost exclusively in the Northern Hemisphere.
+        
+        In cold climates, bears do not hibernate but sleep most of the winter; their metabolism remains normal, and they may wake and emerge during warm spells.
+        
+        North American brown bears include the Kodiak bear and the grizzly. The Kodiak, the largest bear, sometimes stands 9 ft (2.7 m) high and weighs over 1,600 lb (730 kg). The grizzly, characterized by silver-tipped (grizzled) fur, is more highly carnivorous than most bears and preys on large mammals such as deer.
+        
+        The large, white polar bear is an arctic species. A solitary, fearless hunter, it is a powerful swimmer and feeds mostly on marine animals.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T105630Z

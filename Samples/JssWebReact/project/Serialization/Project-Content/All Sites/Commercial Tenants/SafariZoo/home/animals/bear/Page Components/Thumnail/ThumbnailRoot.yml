@@ -1,0 +1,25 @@
+﻿---
+ID: "94ce8967-94ec-4756-ae74-54190119e9fc"
+Parent: "984c89b9-e507-4fec-8666-6c4358fea7c3"
+Template: "689e0625-1cee-421d-b48e-56c819d9f169"
+Path: /sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/animals/bear/Page Components/Thumnail/ThumbnailRoot
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T105759Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c39b4ef2-137e-4d5c-9ac7-c16ab8f9eb4f"
+      Hint: ThumbailList
+      Type: Treelist
+      Value: |
+        {74D6320E-6460-45E7-B5C1-02642B46E56B}
+        {85A8E79F-EB4D-480E-A963-4D2757E88567}
+        {CC3B2F1C-E47E-480A-B8CA-C5FA9BA8737A}

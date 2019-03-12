@@ -1,0 +1,33 @@
+﻿---
+ID: "f240e147-6f72-4153-a44c-216a4f941687"
+Parent: "113d4010-576c-4fb0-a54f-a05107fa48ec"
+Template: "257cbe9f-03ae-4aa9-90f2-816355e876fb"
+Path: "/sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/zoo-news/PageComponents"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T082310Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112221Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

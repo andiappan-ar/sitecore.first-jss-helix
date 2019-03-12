@@ -1,0 +1,40 @@
+﻿---
+ID: "b69dc217-5c51-4652-9fb6-4926fd20e5d4"
+Parent: "541327d4-d1a3-40c3-ad2a-b97c8f0b2bf9"
+Template: "664c3d05-8f6a-4935-976a-0229b48985fc"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education/home/PageComponents/NavigationMenu"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T141137Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a7a452f0-c540-42b8-a173-c279b5279e11"
+      Hint: List
+      Type: Treelist
+      Value: |
+        {7B28B94A-64DB-4DE1-A7E4-AF495636A6E5}
+        {0DDF92C1-A840-4B1C-9648-5D39B6E7BF21}
+        {12CFEAC6-A20A-4188-85C3-D716DE6AB6C4}
+        {CDB139CE-257F-4E8A-971C-8A78AD66250E}
+    - ID: "c950888a-8608-4798-a521-10d6d1c372f9"
+      Hint: DisplayName
+      Value: Safari Resort
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112240Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

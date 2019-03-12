@@ -1,0 +1,21 @@
+﻿---
+ID: "81b82ed8-013e-4831-ad0c-5a6b69a262e0"
+Parent: "a84c2536-1ca7-4859-9e45-a76e7ead6ed0"
+Template: "1d6fa17d-7b9b-49c5-9f66-6dfb15a551e6"
+Path: /sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/animals/Page Components/AnimalArticle/ArticleHeading
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "064cc5b4-d3eb-4f50-b6f9-23cdf5b20631"
+      Hint: SubHeading
+      Value: Puma
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190227T133825Z

@@ -1,0 +1,18 @@
+﻿---
+ID: "9032263a-caa4-4786-8d1a-89fdeea6024c"
+Parent: "48069a2c-c45c-42f7-afd3-9b1898757e18"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Information/Copyrights
+DB: master
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: Copyrights
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190227T132147Z

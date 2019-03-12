@@ -1,0 +1,36 @@
+﻿---
+ID: "c7c30d01-25cc-4023-9c0a-31a6aad0404d"
+Parent: "cb658385-5e84-4da4-a1de-47683a1461bd"
+Template: "f06f6165-356f-4be8-931f-33fc8ee0bb1c"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education/home/animals/Page Components/Carousal/AnimalCarousal/Bears"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b8a6d4f-f755-4396-94de-8224e2b30f63"
+      Hint: Image
+      Value: |
+        <image mediaid="{EDA91BC5-092E-41D7-9E0D-A7EEEBC10B6C}" />
+    - ID: "1fd52daf-97d3-48e9-94e9-348d24e4ebf1"
+      Hint: Title
+      Value: Bears
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T081221Z
+    - ID: "2601ba20-de1a-4871-86a7-2a18b7093a3a"
+      Hint: Url
+      Value: |
+        <link id="{02995BE1-A95C-4A2F-868F-07F8AE9D99AA}" querystring="" text="" anchor="" title="" class="" url="/All Sites/Commercial Tenants/SafariZoo/home/animals/bear" linktype="internal" />
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112309Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

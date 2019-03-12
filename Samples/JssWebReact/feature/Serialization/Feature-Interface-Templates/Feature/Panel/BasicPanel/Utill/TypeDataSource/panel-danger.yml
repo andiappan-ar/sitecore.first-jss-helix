@@ -1,0 +1,17 @@
+﻿---
+ID: "e340f772-e0e0-44c9-afe1-2cba238fc2cd"
+Parent: "936831af-770d-4f0f-b591-684f8aa4286b"
+Template: "273782b7-6f7a-4c77-8803-fb45474013cb"
+Path: "/sitecore/templates/Feature/Panel/BasicPanel/Utill/TypeDataSource/panel-danger"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0bc3379b-3d77-4576-8c55-db0f4acc2426"
+      Hint: Type
+      Value: "panel-danger"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T175412Z

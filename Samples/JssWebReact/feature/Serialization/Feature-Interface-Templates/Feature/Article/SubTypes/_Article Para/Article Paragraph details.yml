@@ -1,0 +1,18 @@
+﻿---
+ID: "0e120448-8a29-404b-a22d-cbc966cc1fc3"
+Parent: "38ced7b2-d9e2-4bcc-82dd-61c97984d027"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Article/SubTypes/_Article Para/Article Paragraph details
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T090751Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

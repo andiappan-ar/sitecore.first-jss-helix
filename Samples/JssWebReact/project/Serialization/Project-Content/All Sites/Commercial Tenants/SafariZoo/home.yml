@@ -1,0 +1,58 @@
+﻿---
+ID: "9004aa0c-21c4-4d82-b428-70916b19c144"
+Parent: "29220904-6247-447d-884a-be6b79802d85"
+Template: "58e4e1f8-236c-4a49-b4d1-3b93deb6dffa"
+Path: /sitecore/content/All Sites/Commercial Tenants/SafariZoo/home
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{67FE027B-FC90-42ED-823C-9C86D6DADD82}"
+              p:after="r[@uid='{9E02CEBF-DC24-4287-BC0C-2E3F1F9BB7BE}']"
+              s:ds="{53344465-1BFE-4EAA-879C-8CB6A201D411}"
+              s:id="{6E23D1ED-8072-4288-8094-B8CE55A7A60C}"
+              s:par=""
+              s:ph="/jss-main/body/three-column-content-layout/second-sub-column" />
+            <r
+              uid="{262298F8-4CDA-4C70-A389-67B5BF12F5D8}"
+              p:after="r[@uid='{67FE027B-FC90-42ED-823C-9C86D6DADD82}']"
+              s:ds="{A60D051E-DEBD-42DD-A3FC-AE00B69AEA53}"
+              s:id="{4C2DB96D-0478-4FA3-970C-79A522CC0898}"
+              s:par=""
+              s:ph="/jss-main/body/three-column-content-layout/second-sub-column" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T125747Z
+    - ID: "4fcd141d-b3e4-4194-ae92-038acf8c3dd0"
+      Hint: Keyword
+      Value: Home  Descryption
+    - ID: "8dda5ff0-2f98-4a90-a817-767b8d143f25"
+      Hint: Title
+      Value: Home Page Title
+    - ID: "ca820a33-8e8c-42f4-b3ea-aa841a3e54aa"
+      Hint: Description
+      Value: Home Keyword
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112216Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

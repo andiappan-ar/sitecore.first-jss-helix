@@ -1,0 +1,27 @@
+﻿---
+ID: "bf5b875b-aae1-4f0f-bc96-6508ec938d14"
+Parent: "bf3f5822-1297-49cf-ab7d-f8f92bdb36b9"
+Template: "f06f6165-356f-4be8-931f-33fc8ee0bb1c"
+Path: "/sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/zoo-news/PageComponents/Thumbnail/ThumbnailRoot/AnimalThumbnails/Gift Programs"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b8a6d4f-f755-4396-94de-8224e2b30f63"
+      Hint: Image
+      Value: |
+        <image mediaid="{96E4BEB8-EB38-4B5A-BBE7-A49EABD33558}" />
+    - ID: "1fd52daf-97d3-48e9-94e9-348d24e4ebf1"
+      Hint: Title
+      Value: Gift Programs
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190228T123424Z
+    - ID: "863c7813-9a60-4462-8719-5b101f2897c4"
+      Hint: Heading
+      Value: Gift programs
+    - ID: "9f4ddd1f-1d68-4c13-9e99-9d814e75d316"
+      Hint: Para
+      Value: Gift programs are arranged for the customers and free delivery.

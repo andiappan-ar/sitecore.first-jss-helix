@@ -1,0 +1,25 @@
+﻿---
+ID: "792cb7b1-2ed9-45fc-a32a-78727fa1113f"
+Parent: "0fa88acd-f432-46df-b255-1c4b3f02bff6"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/Commercial Tenants/SafariZoo/body
+DB: master
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: body
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Type: TreelistEx
+  Value: |
+    {F19EFDCF-CB33-4310-8646-02C80EFAA914}
+    {893E6A04-D0D9-439F-977F-3E75B7874491}
+    {E7358A46-EA66-4205-B293-13F762C29DB7}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T173619Z

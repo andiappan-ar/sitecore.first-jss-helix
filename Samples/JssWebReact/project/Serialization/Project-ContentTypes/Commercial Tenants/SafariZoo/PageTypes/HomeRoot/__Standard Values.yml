@@ -1,0 +1,161 @@
+﻿---
+ID: "d5d414d6-f688-47cd-8445-04a048dbfaa2"
+Parent: "58e4e1f8-236c-4a49-b4d1-3b93deb6dffa"
+Template: "58e4e1f8-236c-4a49-b4d1-3b93deb6dffa"
+Path: /sitecore/templates/Project/Commercial Tenants/SafariZoo/PageTypes/HomeRoot/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {58E4E1F8-236C-4A49-B4D1-3B93DEB6DFFA}
+    {3B10A76A-465E-4F30-8BD1-B7869819A561}
+    {257CBE9F-03AE-4AA9-90F2-816355E876FB}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+            l="{ED32967B-B014-43BB-9697-8576BE84778B}">
+            <p
+              uid="{875AAB1E-49B1-45E2-A7C1-39B9C92A254C}"
+              key="jss-main"
+              md="{30D0744F-BF63-40FD-9621-3D8455E7A55C}" />
+            <p
+              uid="{A73C2B52-1D75-47E5-AA5C-CE7E9606EFB8}"
+              key="header"
+              md="{99CFCF47-6CC8-4248-8EA7-6CCEFF49F436}" />
+            <p
+              uid="{E87FB709-F55A-4DA8-B35B-FC7F4878FA88}"
+              key="three-column-content-layout"
+              md="{893E6A04-D0D9-439F-977F-3E75B7874491}" />
+            <p
+              uid="{72C2603E-DD55-4969-B778-73ACCB555B5B}"
+              key="first-sub-column"
+              md="{D2EBC030-62D7-4690-80FA-1763D4F59364}" />
+            <p
+              uid="{CBAFC8ED-436E-4877-8B3E-61BE81C329B7}"
+              key="/jss-main/three-column-content-layout/second-sub-column"
+              md="{23D726D8-49E6-4EBD-89C8-127406AF0CA7}" />
+            <p
+              uid="{936ACCF9-5D1B-470C-A9A3-70B6C014CCFF}"
+              key="/jss-main/three-column-content-layout/third-sub-column"
+              md="{4F1097D1-B04A-472D-9281-8E955F65A790}" />
+            <p
+              uid="{1B021E62-7274-42E8-9A92-C8D776E7F01F}"
+              key="body"
+              md="{792CB7B1-2ED9-45FC-A32A-78727FA1113F}" />
+            <p
+              uid="{73218392-40C9-4145-B781-8D250FD09C1B}"
+              key="footer"
+              md="{1131D27A-B4D7-4741-AF54-5FB18B6A76A4}" />
+            <r
+              ds=""
+              id="{91B71BDD-E527-4885-B2BE-605E3F93BF62}"
+              par=""
+              ph="/jss-main"
+              uid="{C58890EF-BFB0-4F9E-AFFA-15809445D39C}" />
+            <r
+              ds="{3C456B55-07FA-47AA-9842-F3F933FCFBFA}"
+              id="{6B049315-6F24-44C2-9FFB-F4CD0D2B5BFF}"
+              par=""
+              ph="/jss-main/header"
+              uid="{0F45A8CF-B54C-4404-881B-AD8A216E781E}" />
+            <r
+              id="{4711AE0D-4D55-41D5-9823-0B3448AA745D}"
+              ph="/jss-main"
+              uid="{8B13D41F-4C8F-4AA6-B776-2BA1840C0DAE}" />
+            <r
+              ds="{626C7553-A5F9-496A-8A10-61BE51D63E1B}"
+              id="{F19EFDCF-CB33-4310-8646-02C80EFAA914}"
+              par=""
+              ph="/jss-main/body"
+              uid="{4E3887E9-7F5A-4D9B-B613-4A683D7CFD7A}" />
+            <r
+              ds=""
+              id="{42D380D2-7C61-43F7-B428-9275DCF05071}"
+              par=""
+              ph="/jss-main/body"
+              uid="{6FCBA4B3-E4E1-43A2-B8F8-058E42797DD5}" />
+            <r
+              ds=""
+              id="{74FBC7F0-A7D9-42E5-A216-84B583A8ECCB}"
+              par=""
+              ph="/jss-main/body/three-column-content-layout"
+              uid="{FC7362D6-A2A8-494B-B996-2DEB0DFA7778}" />
+            <r
+              ds="{4DF76827-EF8D-4377-A699-7BE545E22731}"
+              id="{DF96871F-5821-4B7D-A9A8-A8F1C73EC7AF}"
+              par=""
+              ph="/jss-main/body/three-column-content-layout/first-sub-column"
+              uid="{C7E210CC-8151-4E60-B0DE-E4861799D3BE}" />
+            <r
+              ds=""
+              id="{4B3A6B54-9D22-435D-AD67-09EC8BE20C00}"
+              par=""
+              ph="/jss-main/body/three-column-content-layout"
+              uid="{9E02CEBF-DC24-4287-BC0C-2E3F1F9BB7BE}" />
+            <r
+              ds=""
+              id="{CBB12BAB-3C0E-45F8-BE83-C8361749EB1B}"
+              par=""
+              ph="/jss-main/body/three-column-content-layout"
+              uid="{56BADA14-B547-4FCC-A7E6-4224F14339C7}" />
+            <r
+              ds="{E4AA6D74-540A-43E9-92CA-50E472F50940}"
+              id="{DF96871F-5821-4B7D-A9A8-A8F1C73EC7AF}"
+              par=""
+              ph="/jss-main/body/three-column-content-layout/third-sub-column"
+              uid="{1C9A83C8-FDAC-4246-AE82-343E9026AB05}" />
+            <r
+              ds="{B82B9C52-097A-48F5-9DEB-8190C9FB2F14}"
+              id="{DF96871F-5821-4B7D-A9A8-A8F1C73EC7AF}"
+              par=""
+              ph="/jss-main/body/three-column-content-layout/third-sub-column"
+              uid="{BBE44357-802D-4679-A535-2AF758D6A231}" />
+            <r
+              ds="{61A6B028-6F82-4CBA-A260-0D04380BB1C7}"
+              id="{DF96871F-5821-4B7D-A9A8-A8F1C73EC7AF}"
+              par=""
+              ph="/jss-main/body/three-column-content-layout/third-sub-column"
+              uid="{E4AFAF16-8FD2-4729-8F76-448F7AEF7158}" />
+            <r
+              id="{9C9A0D97-63E5-4C8C-8816-76468634A4AF}"
+              ph="/jss-main"
+              uid="{51809A04-3F23-4640-BA02-4E253D7B1FCF}" />
+            <r
+              ds="{674CE84B-B5D3-4B32-AC5C-1F92D3F3F740}"
+              id="{51457204-76B0-43EF-8318-94EA3861BBB3}"
+              par=""
+              ph="/jss-main/footer"
+              uid="{C0AC9F79-DCF9-46A1-AD01-3BB3E56DF0C5}" />
+            <r
+              ds="{5C4C983C-A3C8-4CE4-AD1A-8EA080956562}"
+              id="{9032263A-CAA4-4786-8D1A-89FDEEA6024C}"
+              par=""
+              ph="/jss-main/footer"
+              uid="{F2FAADDA-183A-4CB2-85CC-3AC1D95F33A5}" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T122656Z
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112344Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

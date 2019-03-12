@@ -1,0 +1,18 @@
+﻿---
+ID: "6e1a81be-e685-4fa0-9b47-00e62d9c3e5c"
+Parent: "f6368587-1e32-43a2-b718-f58c50bde417"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/animals/cats/Page Components/Thumnail
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T105738Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

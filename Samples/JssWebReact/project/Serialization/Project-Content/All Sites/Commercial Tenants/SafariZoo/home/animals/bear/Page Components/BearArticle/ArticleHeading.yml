@@ -1,0 +1,20 @@
+﻿---
+ID: "4a51e5a0-32e3-4b0b-b998-a4b11fd09aa7"
+Parent: "83342c07-b24c-4ef8-9c2b-14ea0136f3db"
+Template: "1d6fa17d-7b9b-49c5-9f66-6dfb15a551e6"
+Path: /sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/animals/bear/Page Components/BearArticle/ArticleHeading
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "064cc5b4-d3eb-4f50-b6f9-23cdf5b20631"
+      Hint: SubHeading
+      Value: Welcome to Bear Country
+    - ID: "0e4e604c-8cca-407c-af0f-f910e7fbf3d1"
+      Hint: Heading
+      Value: Bear Country
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T105544Z

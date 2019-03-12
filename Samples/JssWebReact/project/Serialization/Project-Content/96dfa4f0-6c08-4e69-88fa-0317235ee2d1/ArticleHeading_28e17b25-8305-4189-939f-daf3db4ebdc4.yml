@@ -1,0 +1,21 @@
+﻿---
+ID: "28e17b25-8305-4189-939f-daf3db4ebdc4"
+Parent: "96dfa4f0-6c08-4e69-88fa-0317235ee2d1"
+Template: "1d6fa17d-7b9b-49c5-9f66-6dfb15a551e6"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education/home/animals/Page Components/AnimalArticle/ArticleHeading"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "064cc5b4-d3eb-4f50-b6f9-23cdf5b20631"
+      Hint: SubHeading
+      Value: Puma
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190227T133825Z

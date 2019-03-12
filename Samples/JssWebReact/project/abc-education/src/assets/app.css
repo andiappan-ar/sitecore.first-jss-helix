@@ -1,0 +1,89 @@
+a[target='_blank']:after {
+  content: '\1F5D7'
+}
+
+/*
+  Hides Sitecore Experience Editor markup,
+  if you run the app in connected mode while the Sitecore cookies
+  are set to edit mode.
+*/
+.scChromeData, .scpm { display: none !important; }
+
+.navbar{
+  margin-bottom: 0px !important;
+}
+
+.pading-comp{
+  margin-top: 30px !important;
+}
+
+.footer-layout-comp,.navbar-custom{
+  background-color: #2c3e50 !important;
+}
+
+.white-text{
+  color:white;
+}
+
+.jumbotron-fluid{
+  background-color: lightseagreen !important;
+}
+
+/*
+.article-comp .media{
+  margin-left: 25px !important;
+  margin-right: 25px !important;
+  margin-top: 25px !important;
+}
+
+.first-column-subl-comp,.third-column-subl-comp{
+  
+}
+
+.body-layout-comp{
+  background-color: honeydew;
+}
+
+.carousel{
+  width: 1500px;
+  height: 900px;
+}
+
+*/
+
+.navbar{
+  background-color: #e3f2fd !important;
+}
+
+
+
+.carousel-inner img {
+  width: 1900px;
+  height: 700px;
+}
+
+.card-img-top{
+  height: 200px !important;
+}
+
+
+
+.panel-danger{
+  background-color: orangered !important;
+}
+
+.panel-success{
+  background-color: darkcyan !important;
+}
+
+.panel-default{
+  background-color:darkgray !important;
+}
+
+.panel-primary{
+  background-color:honeydew !important;
+}
+
+.panel-warning{
+  background-color:lightsalmon !important;
+}

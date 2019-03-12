@@ -1,0 +1,22 @@
+﻿---
+ID: "9c9a0d97-63e5-4c8c-8816-76468634a4af"
+Parent: "40a2ecea-1210-46c4-95f1-72dec6c15ca7"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Project/Commercial Tenants/SafariZoo/FooterLayout
+DB: master
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: FooterLayout
+- ID: "069a8361-b1cd-437c-8c32-a3be78941446"
+  Hint: Placeholders
+  Type: Treelist
+  Value: "{1131D27A-B4D7-4741-AF54-5FB18B6A76A4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190227T123951Z

@@ -1,0 +1,42 @@
+﻿---
+ID: "3d6697a5-1abf-446e-a166-40f91ca94794"
+Parent: "bf3f5822-1297-49cf-ab7d-f8f92bdb36b9"
+Template: "f06f6165-356f-4be8-931f-33fc8ee0bb1c"
+Path: "/sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/zoo-news/PageComponents/Thumbnail/ThumbnailRoot/AnimalThumbnails/New tigers"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b8a6d4f-f755-4396-94de-8224e2b30f63"
+      Hint: Image
+      Value: |
+        <image mediaid="{252F1B81-6290-47C2-939E-E6A128B5B96E}" />
+    - ID: "1fd52daf-97d3-48e9-94e9-348d24e4ebf1"
+      Hint: Title
+      Value: Cats
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T081342Z
+    - ID: "2601ba20-de1a-4871-86a7-2a18b7093a3a"
+      Hint: Url
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{AF1318B4-A73B-41A8-9199-74CC52DE6AD3}" />
+    - ID: "863c7813-9a60-4462-8719-5b101f2897c4"
+      Hint: Heading
+      Value: New tiger arrivals
+    - ID: "9f4ddd1f-1d68-4c13-9e99-9d814e75d316"
+      Hint: Para
+      Value: 14 pack of tigers arrival in zoo coming new year.
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112311Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

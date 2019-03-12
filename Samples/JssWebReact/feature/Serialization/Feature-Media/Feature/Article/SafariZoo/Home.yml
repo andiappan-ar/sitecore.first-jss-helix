@@ -1,0 +1,18 @@
+﻿---
+ID: "f41ff85a-2158-4a8a-ba9b-1163da8066ff"
+Parent: "1cb4554e-6b13-417d-b0db-36e9d39c98c8"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Feature/Article/SafariZoo/Home
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T092450Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

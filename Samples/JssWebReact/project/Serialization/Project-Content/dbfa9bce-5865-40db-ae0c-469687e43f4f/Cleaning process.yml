@@ -1,0 +1,42 @@
+﻿---
+ID: "309c1ce9-f906-4c2c-b4b4-1131782d7005"
+Parent: "dbfa9bce-5865-40db-ae0c-469687e43f4f"
+Template: "f06f6165-356f-4be8-931f-33fc8ee0bb1c"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education/home/zoo-news/PageComponents/Thumbnail/ThumbnailRoot/AnimalThumbnails/Cleaning process"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b8a6d4f-f755-4396-94de-8224e2b30f63"
+      Hint: Image
+      Value: |
+        <image mediaid="{CB0FA3DF-B798-4CE5-B92A-17D9F5889D09}" />
+    - ID: "1fd52daf-97d3-48e9-94e9-348d24e4ebf1"
+      Hint: Title
+      Value: Zoo closed
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T081342Z
+    - ID: "2601ba20-de1a-4871-86a7-2a18b7093a3a"
+      Hint: Url
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{AF1318B4-A73B-41A8-9199-74CC52DE6AD3}" />
+    - ID: "863c7813-9a60-4462-8719-5b101f2897c4"
+      Hint: Heading
+      Value: Zoo closed
+    - ID: "9f4ddd1f-1d68-4c13-9e99-9d814e75d316"
+      Hint: Para
+      Value: Due to cleaning process zoo closed by this 30.
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112311Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

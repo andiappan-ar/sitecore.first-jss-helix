@@ -1,0 +1,21 @@
+﻿---
+ID: "e3c893d9-a3dc-4eb3-8ba5-b8a733d6e10f"
+Parent: "1d6fa17d-7b9b-49c5-9f66-6dfb15a551e6"
+Template: "1d6fa17d-7b9b-49c5-9f66-6dfb15a551e6"
+Path: /sitecore/templates/Project/Commercial Tenants/SafariZoo/ContentTypes/Article/ArticleHeading/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T092012Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "971382ec-fbe5-4dbb-a60a-489d4ae28ca2"
+      Hint: Type
+      Value: heading

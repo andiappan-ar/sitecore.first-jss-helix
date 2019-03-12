@@ -1,0 +1,18 @@
+﻿---
+ID: "f19efdcf-cb33-4310-8646-02c80efaa914"
+Parent: "43ce79f0-cebe-4d40-9f05-2e07515015e1"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/HeroBanner/HeroBanner
+DB: master
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: HeroBanner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190228T095345Z

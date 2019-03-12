@@ -1,0 +1,32 @@
+﻿---
+ID: "0ddf92c1-a840-4b1c-9648-5d39b6e7bf21"
+Parent: "3c456b55-07fa-47aa-9842-f3f933fcfbfa"
+Template: "664c3d05-8f6a-4935-976a-0229b48985fc"
+Path: /sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/PageComponents/NavigationMenu/Animals
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T141416Z
+    - ID: "c950888a-8608-4798-a521-10d6d1c372f9"
+      Hint: DisplayName
+      Value: Animals
+    - ID: "d0f3950d-1e4b-4826-884a-7c6746f91371"
+      Hint: Url
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{8FD5C57E-5F49-4B75-9D22-78A0731855D0}" />
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112244Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

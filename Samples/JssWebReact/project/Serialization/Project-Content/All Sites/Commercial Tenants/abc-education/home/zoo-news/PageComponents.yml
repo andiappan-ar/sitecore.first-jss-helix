@@ -1,0 +1,33 @@
+﻿---
+ID: "a41fca5c-941b-4a30-bc5e-d564f3d76327"
+Parent: "fbcc25fc-715e-42c3-ad55-1f129db48143"
+Template: "257cbe9f-03ae-4aa9-90f2-816355e876fb"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education/home/zoo-news/PageComponents"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T082310Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112221Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,28 @@
+﻿---
+ID: "96dfa4f0-6c08-4e69-88fa-0317235ee2d1"
+Parent: "097226e4-7759-43d5-8c50-ea244942cd49"
+Template: "ec391021-b148-454c-9d9b-0c7e35929271"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education/home/animals/Page Components/AnimalArticle"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T105237Z
+    - ID: "6c1b3d57-d146-466c-b235-3460a89d5f41"
+      Hint: ArticleContents
+      Type: Treelist
+      Value: |
+        {F65A84D8-9532-4EAF-A1A6-EAA879435C83}
+        {230F42BC-12BB-42FD-8C0E-BC9915AE568E}
+        {81B82ED8-013E-4831-AD0C-5A6B69A262E0}
+        {735AA66C-E919-431F-95DE-57DD2FDD0088}
+        {6A4F0AAF-8BFE-40C8-A07C-59D3D466B490}
+        {028D8611-2241-4F46-8047-F83730B372DA}

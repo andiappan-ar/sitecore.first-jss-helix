@@ -1,0 +1,34 @@
+﻿---
+ID: "b843fe82-b9b0-48cc-960a-498bc8bbce36"
+Parent: "f06f6165-356f-4be8-931f-33fc8ee0bb1c"
+Template: "f06f6165-356f-4be8-931f-33fc8ee0bb1c"
+Path: /sitecore/templates/Project/Commercial Tenants/SafariZoo/ContentTypes/Thumnails/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{F06F6165-356F-4BE8-931F-33FC8EE0BB1C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b8a6d4f-f755-4396-94de-8224e2b30f63"
+      Hint: Image
+      Value: |
+        <image mediaid="{D49EA81C-AAC4-4217-B0F5-F357056A3716}" />
+    - ID: "1fd52daf-97d3-48e9-94e9-348d24e4ebf1"
+      Hint: Title
+      Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T081116Z
+    - ID: "2601ba20-de1a-4871-86a7-2a18b7093a3a"
+      Hint: Url
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{02995BE1-A95C-4A2F-868F-07F8AE9D99AA}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,26 @@
+﻿---
+ID: "1f9ffa58-db5c-494a-a8d4-e59b9026c4f2"
+Parent: "96dfa4f0-6c08-4e69-88fa-0317235ee2d1"
+Template: "d377972e-3254-44e7-8124-ff643d34315f"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education/home/animals/Page Components/AnimalArticle/ArticlePara"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22e7e1f6-08b7-46f3-b4a3-09b6cbef46a5"
+      Hint: ParagraphText
+      Value: |
+        A zoo is a property that houses wildlife species from around the world. The mammals, birds, amphibians, fishes and reptiles that are kept in a zoo are found naturally in the wild in different kind of habitats. The habitats include forests of varied flora and vegetation, mountainous areas of varying altitudes, deserts of different kinds, and many varied water bodies. In order to keep a great variety of wildlife in a zoo, the different habitats where the animals are naturally found are re-created in a zoo.
+        
+        The wild animals are kept in separate enclosures in a zoo. Visitors are allowed to go around and take a look at the wild animals. Children enjoy going on an excursion to a zoo. While it may be difficult to see the animals in their natural habitats, in a zoo one can easily see them in their enclosures.
+        
+        There are caretakers who are trained to take care of the animals. The animals are fed and provided water to drink in the zoo. Veterinarians also provide medical attention to the animals. The wildlife in a zoo is protected by law. Visitors are not allowed to harm, injure or tease the animals, nor even feed them.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T105630Z

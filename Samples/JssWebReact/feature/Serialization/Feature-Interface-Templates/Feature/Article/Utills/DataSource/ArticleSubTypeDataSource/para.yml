@@ -1,0 +1,17 @@
+﻿---
+ID: "fb0d6832-edcd-482e-95b8-c28e188fe6bf"
+Parent: "223856f2-e645-433d-ae0e-8e0a81e1ab33"
+Template: "38498da4-860d-4669-83ea-d7c607797dca"
+Path: /sitecore/templates/Feature/Article/Utills/DataSource/ArticleSubTypeDataSource/para
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T091147Z
+    - ID: "36bc299b-b1ca-43e9-940a-bc426ded7bdf"
+      Hint: Type
+      Value: para

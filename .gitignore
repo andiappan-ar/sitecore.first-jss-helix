@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.vscode
+/node_modules
+/Serialization/JSS.Serialization/.vs
+/Serialization/JSS.Serialization/JSS.Serialization/bin
+/Serialization/JSS.Serialization/JSS.Serialization/obj
+/Serialization/JSS.Serialization/packages
+/Samples/JssWebReact/project/safarizoo/src/feature
+/Samples/JssWebReact/project/safarizoo/src/foundation/components/Context

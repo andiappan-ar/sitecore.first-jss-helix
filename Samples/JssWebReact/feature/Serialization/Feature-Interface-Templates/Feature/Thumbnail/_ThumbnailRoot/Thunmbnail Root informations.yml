@@ -1,0 +1,18 @@
+﻿---
+ID: "3ce4d5c4-6925-414c-8ccc-cdb408299732"
+Parent: "f6a8d23b-c663-49e6-8ca2-542727d2ce88"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Thumbnail/_ThumbnailRoot/Thunmbnail Root informations
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T082413Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

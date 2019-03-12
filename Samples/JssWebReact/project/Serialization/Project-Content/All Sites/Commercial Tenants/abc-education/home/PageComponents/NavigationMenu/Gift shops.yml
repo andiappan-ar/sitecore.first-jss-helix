@@ -1,0 +1,32 @@
+﻿---
+ID: "dbf43eb1-98d8-4e2e-bd4a-5e46ed38c655"
+Parent: "b69dc217-5c51-4652-9fb6-4926fd20e5d4"
+Template: "664c3d05-8f6a-4935-976a-0229b48985fc"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education/home/PageComponents/NavigationMenu/Gift shops"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T141510Z
+    - ID: "c950888a-8608-4798-a521-10d6d1c372f9"
+      Hint: DisplayName
+      Value: Gift shops
+    - ID: "d0f3950d-1e4b-4826-884a-7c6746f91371"
+      Hint: Url
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{A4F1B3E7-26F6-4416-80C7-60B825BEF66B}" />
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112246Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

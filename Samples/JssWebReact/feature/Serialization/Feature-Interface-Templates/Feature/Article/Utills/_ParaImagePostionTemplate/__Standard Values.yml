@@ -1,0 +1,26 @@
+﻿---
+ID: "9a718dae-c726-41be-99be-c15186907a9a"
+Parent: "48c3c776-e1a2-46c2-b9c1-d7fa64ccee9a"
+Template: "48c3c776-e1a2-46c2-b9c1-d7fa64ccee9a"
+Path: /sitecore/templates/Feature/Article/Utills/_ParaImagePostionTemplate/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{48C3C776-E1A2-46C2-B9C1-D7FA64CCEE9A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T091443Z
+    - ID: "3b67e8b9-a825-4e20-b236-8a218f2a5e94"
+      Hint: Postion of image
+      Value: $name
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

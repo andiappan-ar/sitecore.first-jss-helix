@@ -1,0 +1,43 @@
+﻿---
+ID: "fad1a6e8-80c1-4d23-8b1b-6035eb39df2c"
+Parent: "53344465-1bfe-4eaa-879c-8cb6a201d411"
+Template: "d377972e-3254-44e7-8124-ff643d34315f"
+Path: /sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/PageComponents/Article/HomeArticle/ArticlePara
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0881662d-6f10-4fd6-a8da-ac3a55db7e38"
+      Hint: Image
+      Value: |
+        <image mediaid="{5448D117-4462-41C2-BBA1-7C51F680B601}" />
+    - ID: "22e7e1f6-08b7-46f3-b4a3-09b6cbef46a5"
+      Hint: ParagraphText
+      Value: |
+        <strong>Wild Safari Resort</strong> is for adventurous animal lovers. 
+                    Situated in l.5 km (2miles) from North of Bandar Lampung, Indonesia, 
+                    this vacation getaway offers an unparalled living experience among 
+                    nature's most precious wildlife species. You will live in a straw 
+                    hut amidst the towering hardwood trees of Indonesia. Animals from 
+                    every corner of the Earth live in "open captivity." Wild 
+                    Safari Resort offers something for every member of the family. You 
+                    will find activities for every age and inclination.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T092409Z
+    - ID: "e734848b-d6bb-4328-b1b1-ece7a55a549f"
+      Hint: ImagePostion
+      Value: right
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112233Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

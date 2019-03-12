@@ -1,0 +1,36 @@
+﻿---
+ID: "6ed8603c-49fa-4bb4-9813-7c4a7ab4179b"
+Parent: "0c6e33c6-4936-44ac-bdb1-809154e53bfe"
+Template: "f06f6165-356f-4be8-931f-33fc8ee0bb1c"
+Path: /sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/PageComponents/Thumbnail/ThumbnailRoot/AnimalThumbnails/Monkeys
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b8a6d4f-f755-4396-94de-8224e2b30f63"
+      Hint: Image
+      Value: |
+        <image mediaid="{5CBD5F45-2206-4FD3-AB50-E49527F9FA60}" />
+    - ID: "1fd52daf-97d3-48e9-94e9-348d24e4ebf1"
+      Hint: Title
+      Value: Monkeys
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T081451Z
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112325Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,29 @@
+﻿---
+ID: "9f402689-70bb-4964-80e4-cf59850f05de"
+Parent: "53f78397-3344-42ba-97f0-a7ed60c18e76"
+Template: "f06f6165-356f-4be8-931f-33fc8ee0bb1c"
+Path: /sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/animals/Page Components/Carousal/AnimalCarousal
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T081106Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112307Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

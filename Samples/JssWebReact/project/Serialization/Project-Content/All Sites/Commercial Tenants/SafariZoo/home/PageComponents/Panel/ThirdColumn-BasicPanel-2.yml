@@ -1,0 +1,37 @@
+﻿---
+ID: "61a6b028-6f82-4cba-a260-0d04380bb1c7"
+Parent: "bea3571d-3d3e-44d8-a08d-0c05a13b42a3"
+Template: "ccab8940-57f3-4671-9c3a-261d1c0bfaaa"
+Path: "/sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/PageComponents/Panel/ThirdColumn-BasicPanel-2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T180043Z
+    - ID: "4a43aca4-655b-4296-bc52-08f9ab4cc6cf"
+      Hint: HeadingType
+      Value: "panel-primary"
+    - ID: "51152c21-906e-445c-bc8b-e334e14a33f9"
+      Hint: ContentText
+      Value: "By becoming a new member you'll be taking advantage of a limited-time offer to join at lower prices AND receive two additional months of membership FREE!"
+    - ID: "847482c0-9359-444a-9e87-b0c2e446dae4"
+      Hint: HeadingText
+      Value: Be a Member
+    - ID: "e84e212e-f543-4034-9b06-6820899e7232"
+      Hint: ContentType
+      Value: "panel-default"
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112300Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

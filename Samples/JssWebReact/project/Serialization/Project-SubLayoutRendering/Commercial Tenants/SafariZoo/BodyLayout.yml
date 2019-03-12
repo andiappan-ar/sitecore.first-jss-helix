@@ -1,0 +1,24 @@
+﻿---
+ID: "4711ae0d-4d55-41d5-9823-0b3448aa745d"
+Parent: "40a2ecea-1210-46c4-95f1-72dec6c15ca7"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Project/Commercial Tenants/SafariZoo/BodyLayout
+DB: master
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: BodyLayout
+- ID: "069a8361-b1cd-437c-8c32-a3be78941446"
+  Hint: Placeholders
+  Type: Treelist
+  Value: |
+    {893E6A04-D0D9-439F-977F-3E75B7874491}
+    {792CB7B1-2ED9-45FC-A32A-78727FA1113F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T173426Z

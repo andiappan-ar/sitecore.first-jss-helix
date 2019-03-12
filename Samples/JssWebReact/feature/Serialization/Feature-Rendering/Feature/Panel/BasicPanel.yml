@@ -1,0 +1,18 @@
+﻿---
+ID: "df96871f-5821-4b7d-a9a8-a8f1c73ec7af"
+Parent: "0fc37610-dd55-47ae-a2c1-b00e822cf09e"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Panel/BasicPanel
+DB: master
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: BasicPanel
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T174618Z

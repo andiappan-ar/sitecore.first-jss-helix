@@ -1,0 +1,44 @@
+﻿---
+ID: "af1318b4-a73b-41a8-9199-74cc52de6ad3"
+Parent: "8fd5c57e-5f49-4b75-9d22-78a0731855d0"
+Template: "3b10a76a-465e-4f30-8bd1-b7869819a561"
+Path: /sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/animals/cats
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{11EE9708-8277-4AD0-9A02-2BD1D7022B3C}"
+          s:ds="{69400991-E585-4468-9C6E-BD62B7294FE4}" />
+        <r
+          uid="{77143529-3512-41AB-949B-2E8E68D7CA0A}"
+          s:ds="{94CE8967-94EC-4756-AE74-54190119E9FC}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{77143529-3512-41AB-949B-2E8E68D7CA0A}"
+              s:ds="{11F6A8FE-8B7E-42C3-B0F7-C71B66C6FEA6}" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T104946Z

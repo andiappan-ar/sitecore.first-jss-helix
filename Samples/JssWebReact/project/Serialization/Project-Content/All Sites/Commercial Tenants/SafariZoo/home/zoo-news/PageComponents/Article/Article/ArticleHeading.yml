@@ -1,0 +1,31 @@
+﻿---
+ID: "cf7bae14-6297-4c48-b498-16756adae795"
+Parent: "18892813-7c77-4a28-9f96-cc54df4e6ece"
+Template: "1d6fa17d-7b9b-49c5-9f66-6dfb15a551e6"
+Path: "/sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/zoo-news/PageComponents/Article/Article/ArticleHeading"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "064cc5b4-d3eb-4f50-b6f9-23cdf5b20631"
+      Hint: SubHeading
+      Value: 
+    - ID: "0e4e604c-8cca-407c-af0f-f910e7fbf3d1"
+      Hint: Heading
+      Value: Safari zoo news
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T092336Z
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112231Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

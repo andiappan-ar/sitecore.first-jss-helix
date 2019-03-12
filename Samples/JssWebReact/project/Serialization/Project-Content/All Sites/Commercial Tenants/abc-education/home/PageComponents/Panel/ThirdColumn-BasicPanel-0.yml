@@ -1,0 +1,39 @@
+﻿---
+ID: "06cb3a97-dc0c-48a2-ac07-3ed9e6387fd8"
+Parent: "77fc9085-297c-4f36-ad83-f9d12edf53f0"
+Template: "ccab8940-57f3-4671-9c3a-261d1c0bfaaa"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education/home/PageComponents/Panel/ThirdColumn-BasicPanel-0"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T180043Z
+    - ID: "4a43aca4-655b-4296-bc52-08f9ab4cc6cf"
+      Hint: HeadingType
+      Value: "panel-success"
+    - ID: "51152c21-906e-445c-bc8b-e334e14a33f9"
+      Hint: ContentText
+      Value: |
+        Open Daily:
+        10 AM to 7 PM
+    - ID: "847482c0-9359-444a-9e87-b0c2e446dae4"
+      Hint: HeadingText
+      Value: Park Hours
+    - ID: "e84e212e-f543-4034-9b06-6820899e7232"
+      Hint: ContentType
+      Value: "panel-default"
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112256Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

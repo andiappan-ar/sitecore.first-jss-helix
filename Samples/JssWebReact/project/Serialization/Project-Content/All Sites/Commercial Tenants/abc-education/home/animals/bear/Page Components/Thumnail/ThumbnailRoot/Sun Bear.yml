@@ -1,0 +1,21 @@
+﻿---
+ID: "d7dc2760-301e-44f8-bab7-5dc7a87a62ad"
+Parent: "c9bcb4dc-e523-48ac-8b65-92440a4dab8b"
+Template: "f06f6165-356f-4be8-931f-33fc8ee0bb1c"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education/home/animals/bear/Page Components/Thumnail/ThumbnailRoot/Sun Bear"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b8a6d4f-f755-4396-94de-8224e2b30f63"
+      Hint: Image
+      Value: |
+        <image mediaid="{7E63AD1B-EA14-495C-947F-89FFECF912D9}" />
+    - ID: "1fd52daf-97d3-48e9-94e9-348d24e4ebf1"
+      Hint: Title
+      Value: Sun Bear
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T110403Z

@@ -1,0 +1,24 @@
+﻿---
+ID: "d292a2b1-846a-4217-873d-979da3cbe169"
+Parent: "d377972e-3254-44e7-8124-ff643d34315f"
+Template: "d377972e-3254-44e7-8124-ff643d34315f"
+Path: /sitecore/templates/Project/Commercial Tenants/SafariZoo/ContentTypes/Article/ArticlePara/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T091952Z
+    - ID: "26105f4e-63a2-4a65-8608-5f682d8701b0"
+      Hint: Type
+      Value: para
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "e734848b-d6bb-4328-b1b1-ece7a55a549f"
+      Hint: ImagePostion
+      Value: right

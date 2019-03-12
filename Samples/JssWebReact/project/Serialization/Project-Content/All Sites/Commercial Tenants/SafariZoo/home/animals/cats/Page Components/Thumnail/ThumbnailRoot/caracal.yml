@@ -1,0 +1,21 @@
+﻿---
+ID: "43f9fb68-d472-4d31-b81d-932f7ab13dfa"
+Parent: "11f6a8fe-8b7e-42c3-b0f7-c71b66c6fea6"
+Template: "f06f6165-356f-4be8-931f-33fc8ee0bb1c"
+Path: /sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/animals/cats/Page Components/Thumnail/ThumbnailRoot/caracal
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b8a6d4f-f755-4396-94de-8224e2b30f63"
+      Hint: Image
+      Value: |
+        <image mediaid="{B8D86CBD-A07F-43D7-B6E7-810FF08AA161}" />
+    - ID: "1fd52daf-97d3-48e9-94e9-348d24e4ebf1"
+      Hint: Title
+      Value: caracal
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T111247Z

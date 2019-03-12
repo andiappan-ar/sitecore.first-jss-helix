@@ -1,0 +1,17 @@
+﻿---
+ID: "fa400108-4de3-4241-9fff-514427497fe5"
+Parent: "936831af-770d-4f0f-b591-684f8aa4286b"
+Template: "273782b7-6f7a-4c77-8803-fb45474013cb"
+Path: "/sitecore/templates/Feature/Panel/BasicPanel/Utill/TypeDataSource/panel-warning"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0bc3379b-3d77-4576-8c55-db0f4acc2426"
+      Hint: Type
+      Value: "panel-warning"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T175405Z

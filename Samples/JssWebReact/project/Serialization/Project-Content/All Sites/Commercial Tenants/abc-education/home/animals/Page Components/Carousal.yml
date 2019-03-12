@@ -1,0 +1,47 @@
+﻿---
+ID: "48b9171e-73c9-4373-a0c2-d2b33f764c45"
+Parent: "097226e4-7759-43d5-8c50-ea244942cd49"
+Template: "689e0625-1cee-421d-b48e-56c819d9f169"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education/home/animals/Page Components/Carousal"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T082500Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c39b4ef2-137e-4d5c-9ac7-c16ab8f9eb4f"
+      Hint: ThumbailList
+      Type: Treelist
+      Value: |
+        {4B32B884-498B-43D2-AFB7-96B0CB31EA0F}
+        {5F530F2D-D0FA-4362-A12F-70C42048B31D}
+        {63CFBF5F-333C-4959-9FC9-E72B4F39836C}
+        {4393A1F9-BE0A-49C3-8525-CF5B36FBFCCD}
+        {9C0B18A0-AEAE-4C02-B5FC-2E4863493838}
+        {8A3C6D7A-61EF-4061-A5C2-0AE9D04F1C14}
+        {AA74B8A2-9DF8-4C76-AB3C-E81C61799B62}
+        {62043D02-E451-42DE-9851-8F6899AB513A}
+        {5035AF52-6B87-400E-9CFE-6C56C49AB6E9}
+        {8416B852-CCED-4BCF-ADA1-3545154A0F94}
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112304Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

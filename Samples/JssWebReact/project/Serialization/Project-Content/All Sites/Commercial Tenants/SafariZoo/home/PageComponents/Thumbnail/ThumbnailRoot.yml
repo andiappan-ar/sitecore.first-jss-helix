@@ -1,0 +1,43 @@
+﻿---
+ID: "a60d051e-debd-42dd-a3fc-ae00b69aea53"
+Parent: "c1c94fc6-1a45-4aff-9183-5ef84c7a76d9"
+Template: "689e0625-1cee-421d-b48e-56c819d9f169"
+Path: /sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/PageComponents/Thumbnail/ThumbnailRoot
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T082500Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c39b4ef2-137e-4d5c-9ac7-c16ab8f9eb4f"
+      Hint: ThumbailList
+      Type: Treelist
+      Value: |
+        {11DB0E40-ECB6-4339-A3A6-F065702179BB}
+        {939E3362-666B-4B7B-8ED0-7853BCE5AAF1}
+        {C93829CA-8E42-45CE-A9D9-6349B37744B4}
+        {DCA95C67-CCCA-441D-9AE6-65C144916DD2}
+        {E07D9B72-084A-43BB-A41F-7A1A9DB991D5}
+        {73A88D7E-AAF7-4DA0-94F7-F9CE88DFCF0D}
+        {70A218D2-D87F-4CBE-AFE1-48C129001B34}
+        {6ED8603C-49FA-4BB4-9813-7C4A7AB4179B}
+        {991590E0-541E-41D2-B294-14B036B70939}
+        {E5F7D22E-DCFD-473B-8450-4B5B1CD4D1A7}
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112304Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

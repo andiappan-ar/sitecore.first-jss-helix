@@ -1,0 +1,40 @@
+﻿---
+ID: "05f717d9-9bce-4f73-9981-90786934f4c4"
+Parent: "541327d4-d1a3-40c3-ad2a-b97c8f0b2bf9"
+Template: "62130fb9-fe66-494b-bc54-c535368de143"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education/home/PageComponents/HeaderLogo"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T082333Z
+    - ID: "29b02060-b19a-4436-8147-4efcc1e0d713"
+      Hint: Anchor
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{368C411B-B2F5-4E31-A943-CBCA560985FC}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cbc27d5c-736d-4e90-9101-662004b30fcf"
+      Hint: ImageText
+      Value: I am image Helper text
+    - ID: "e9969deb-fab4-4fbc-811e-6afa2d5bc158"
+      Hint: LogoImage
+      Value: |
+        <image mediaid="{DD1A8F98-EC65-4B8E-AB97-7B7B0F1F9885}" />
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112237Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

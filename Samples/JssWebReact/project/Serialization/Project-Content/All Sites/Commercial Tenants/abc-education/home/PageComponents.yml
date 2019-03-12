@@ -1,0 +1,33 @@
+﻿---
+ID: "541327d4-d1a3-40c3-ad2a-b97c8f0b2bf9"
+Parent: "cf34fd66-083c-4e11-94ad-9a1d4d04e10b"
+Template: "257cbe9f-03ae-4aa9-90f2-816355e876fb"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education/home/PageComponents"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T082310Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112221Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

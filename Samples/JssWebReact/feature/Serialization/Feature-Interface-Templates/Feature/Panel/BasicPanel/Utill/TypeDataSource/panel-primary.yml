@@ -1,0 +1,17 @@
+﻿---
+ID: "b1fbae0a-7bc7-4ad2-ba49-a982158982a1"
+Parent: "936831af-770d-4f0f-b591-684f8aa4286b"
+Template: "273782b7-6f7a-4c77-8803-fb45474013cb"
+Path: "/sitecore/templates/Feature/Panel/BasicPanel/Utill/TypeDataSource/panel-primary"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0bc3379b-3d77-4576-8c55-db0f4acc2426"
+      Hint: Type
+      Value: "panel-primary"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T180407Z

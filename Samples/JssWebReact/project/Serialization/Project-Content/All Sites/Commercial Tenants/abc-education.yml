@@ -1,0 +1,14 @@
+﻿---
+ID: "9db48204-79c7-428e-bd82-f91659e72d08"
+Parent: "080778a8-c12f-4276-b5f2-fcac3d0d8e6a"
+Template: "e33ee982-4430-4a7c-b17c-b3a79dc7fd6f"
+Path: "/sitecore/content/All Sites/Commercial Tenants/abc-education"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T080354Z

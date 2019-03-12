@@ -1,0 +1,55 @@
+﻿---
+ID: "8fd5c57e-5f49-4b75-9d22-78a0731855d0"
+Parent: "9004aa0c-21c4-4d82-b428-70916b19c144"
+Template: "58e4e1f8-236c-4a49-b4d1-3b93deb6dffa"
+Path: /sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/animals
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{B41F4C21-D512-4451-851C-1626886B55CF}"
+              p:after="r[@uid='{9E02CEBF-DC24-4287-BC0C-2E3F1F9BB7BE}']"
+              s:ds="{A84C2536-1CA7-4859-9E45-A76E7EAD6ED0}"
+              s:id="{6E23D1ED-8072-4288-8094-B8CE55A7A60C}"
+              s:par=""
+              s:ph="/jss-main/body/three-column-content-layout/second-sub-column" />
+            <r
+              uid="{BBE44357-802D-4679-A535-2AF758D6A231}">
+              <p:d />
+            </r>
+            <r
+              uid="{E4AFAF16-8FD2-4729-8F76-448F7AEF7158}">
+              <p:d />
+            </r>
+            <r
+              uid="{5536E06D-9A3C-4D8D-B69D-7C6A79830EC1}"
+              p:after="*[1=2]"
+              s:ds="{53F78397-3344-42BA-97F0-A7ED60C18E76}"
+              s:id="{E7358A46-EA66-4205-B293-13F762C29DB7}"
+              s:par=""
+              s:ph="/jss-main/body" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T135620Z
+    - ID: "4fcd141d-b3e4-4194-ae92-038acf8c3dd0"
+      Hint: Keyword
+      Value: Animals Descryption
+    - ID: "8dda5ff0-2f98-4a90-a817-767b8d143f25"
+      Hint: Title
+      Value: Animals Page Title
+    - ID: "ca820a33-8e8c-42f4-b3ea-aa841a3e54aa"
+      Hint: Description
+      Value: Animals Keyword

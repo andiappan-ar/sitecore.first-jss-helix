@@ -1,0 +1,34 @@
+﻿---
+ID: "4df76827-ef8d-4377-a699-7be545e22731"
+Parent: "bea3571d-3d3e-44d8-a08d-0c05a13b42a3"
+Template: "ccab8940-57f3-4671-9c3a-261d1c0bfaaa"
+Path: "/sitecore/content/All Sites/Commercial Tenants/SafariZoo/home/PageComponents/Panel/FirstColumn-BasicPanel-0"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190220T180043Z
+    - ID: "4a43aca4-655b-4296-bc52-08f9ab4cc6cf"
+      Hint: HeadingType
+      Value: "panel-default"
+    - ID: "51152c21-906e-445c-bc8b-e334e14a33f9"
+      Hint: ContentText
+      Value: "              Standing over five feet tall and weighing up a 600 pounds, a silverback              gorilla may have an armspan of eight feet and possess the strength              of four to eight strong men. Don't make him mad!"
+    - ID: "847482c0-9359-444a-9e87-b0c2e446dae4"
+      Hint: HeadingText
+      Value: "Who Da King?"
+- Language: "es-AR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190221T112254Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
