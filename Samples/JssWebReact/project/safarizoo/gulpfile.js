@@ -5,6 +5,9 @@ var gulp = require("gulp"),
 
 var packageFolders = ["feature", "foundation"];
 
+/*
+copy-packages copy the components from respective component layers to project layer.
+*/
 gulp.task('copy-packages', function () {
 
   var gulpRanInThisFolder = process.cwd();
@@ -28,6 +31,9 @@ gulp.task('copy-packages', function () {
 
 });
 
+/*
+copy-packages copy the components from respective project layer to respective component layers.
+*/
 gulp.task('push-packages', function () {
 
   var gulpRanInThisFolder = process.cwd();
