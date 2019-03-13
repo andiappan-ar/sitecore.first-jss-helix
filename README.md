@@ -45,7 +45,7 @@ This sample contains below changes from the official jss samples
 
 ![feature to foundation gulp cmd](https://user-images.githubusercontent.com/11770345/54266026-92b41180-459c-11e9-85d2-74558cbe75c2.PNG)
 
-**Step5:** Run deploy config cmd (**D:\jss-sc-first\Samples\JssWebReact\project\safarizoo>jss deploy config**)
+**Step5:** Run deploy config cmd (**D:\jss-sc-first\Samples\JssWebReact\project\safarizoo>jss deploy config**). This will copy the sitedefinition files to your hosted environment.
 
 **Step6:** Unicorn setup project (JSS.Serialization.csproj) is under Serialization folder(**D:\jss-sc-first\Serialization**). Change your physical serialization location in **JSS.Serialization.config** and publish the project to your sitecore instance and sync all the modules.
 
@@ -61,10 +61,24 @@ Consult the primary helix documentation from here https://helix.sitecore.net/. B
   Feature layer will fall under **Samples\JssWebReact\Feature**.Using project specific gulp file(**gulp copy-packages**) will transfer all feature components under **Project\{}\Src** folder.
 
 ### Foundation
-  In this sample foundation(**Samples\JssWebReact\Foundation**) contains SitecoreContextFactory.js.Using project specific gulp file(**gulp copy-packages**) will transfer all feature components under **Project\{}\Src** folder.
+  In this sample foundation(**Samples\JssWebReact\Foundation**) contains SitecoreContextFactory.js.Using project specific gulp file(**gulp copy-packages**) will transfer all feature components under **Project\{your-project-name}\Src** folder.
 
 ### Project
   Project layer(**Samples\JssWebReact\Project\{your-Project-Name}**) contains all project realted files , In this sample SafariZoo site and it contains all the site related files.
+  
+### Narrow down more compinents specific.
+  If you want further narrow down your components structure. Introduce your own componet layer like i mentioned in below image then try to install dependecies in your respective projects.
+  
+  ![Capture](https://user-images.githubusercontent.com/11770345/54267311-fe977980-459e-11e9-82f1-64073d0d8384.PNG)
+ ``` 
+ File: Project\{your-project-name}\package.json
+ 
+  "devDependencies": {   
+    "feature": "file:../../feature",
+    "feature-xyz-components": "file:../../feature-xyz-components",
+    "foundation": "file:../../foundation",    
+  }
+  ```
 
 ## Unicorn
 All sitecore sample site template,media,layout,place holder,rendering and content items are configured in serialization project. Refer installation step6 for setup.
