@@ -5,7 +5,7 @@ Consult the primary JSS documentation at https://jss.sitecore.net for the latest
 
 ## What is this sample?
 
-This is sample consisits of sample websites with jss sitecore first approach with helix. Currently this sample contains react components. Work in progress for angular.
+This consisits of sample websites with jss sitecore first approach with helix. Currently this sample contains react components.
 
 
 ## What changes this sample made from the jss official base solution?
